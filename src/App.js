@@ -46,7 +46,7 @@ export default function SimpleContainer() {
           </span>{' '}
           & <span className='animate-charcter'>fun</span> sister like you.
         </div>
-        <div style={{ fontSize: '2rem', textAlign: 'center' }}>Sending all to love and blessings! Cant wait to see you next year</div>
+        <div style={{ fontSize: '2rem', textAlign: 'center' }}>Sending all to love and blessings! Cant wait to see you next year!!</div>
         <img src='/card.png' width='100%' style={{ maxWidth: '600px' }} />
       </Stack>
     </div>
