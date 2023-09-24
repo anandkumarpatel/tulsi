@@ -23,7 +23,7 @@ export default function SimpleContainer() {
           <span style={{ animationDelay: 'calc(.1s * 1)0' }}>s</span>
           <span style={{ animationDelay: 'calc(.1s * 11)' }}>h</span>
           <span style={{ animationDelay: 'calc(.1s * 12)' }}>a</span>
-          <span style={{ animationDelay: 'calc(.1s * 12)' }}>&nbsp;&nbsp;</span>
+          <span style={{ animationDelay: 'calc(.1s * 13)' }}>&nbsp;&nbsp;</span>
           <span style={{ animationDelay: 'calc(.1s * 13)' }}>B</span>
           <span style={{ animationDelay: 'calc(.1s * 14)' }}>a</span>
           <span style={{ animationDelay: 'calc(.1s * 15)' }}>n</span>
